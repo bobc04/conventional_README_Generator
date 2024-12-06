@@ -24,7 +24,7 @@ This project is licensed under the MIT license.
 [![Generic badge](https://img.shields.io/badge/License-MIT-green.svg)](https://shields.io/)
    
   https://opensource.org/license/MIT 
-    The README Generator www.amazon.com Prior to generating a professional README, ensure to have Node JS installed and be familiar with NPM Modules, particularly Colors and Inquirer. Once all prerequisites have been installed, run the README Generator by running: 'node index.js' within the same directory with all associated files. Please fork this repo. No tests needed. 
+    The README Generator https://drive.google.com/file/d/1lfGpEDhSNRKcRJ_C--gylM3aBcRj2ya2/view?usp=sharing Prior to generating a professional README, ensure to have Node JS installed and be familiar with NPM Modules, particularly Colors and Inquirer. Once all prerequisites have been installed, run the README Generator by running: 'node index.js' within the same directory with all associated files. Please fork this repo. No tests needed. 
 
 ## Contributing
 Please fork this repo.
@@ -33,10 +33,9 @@ Please fork this repo.
 No tests needed.
 
 ## Video
-[My Video:](https://drive.google.com/file/d/1lfGpEDhSNRKcRJ_C--gylM3aBcRj2ya2/view?usp=sharing)
-
+[My Video:](https://https://drive.google.com/file/d/1lfGpEDhSNRKcRJ_C--gylM3aBcRj2ya2/view?usp=sharing)
 
 ## Questions
 For any questions, please contact me:
 - GitHub: [bobc04](https://github.com/bobc04)
-- Email: bobc04@someemail.com
+- Email: bobc04@gmail.com
